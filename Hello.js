@@ -13,3 +13,6 @@ this.getEmpDetails=function()
 
 let emp1 = new Emp('vivek',10,122);
 emp1.getEmpDetails();
+//  let emp2 = new Emp('Alex',2,34);
+//  console.log(emp2.getEmpDetails());
+
